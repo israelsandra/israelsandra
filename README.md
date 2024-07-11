@@ -1,6 +1,6 @@
-israel sandra 
-I’m interested in creating responsive websites
-I’m currently working
+israel sandra, 
+I’m interested in creating responsive websites,
+I’m currently working,
 How to reach me israelsandra2000@gmail.com
 
 <!---
