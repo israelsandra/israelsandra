@@ -1,6 +1,7 @@
-israel sandra, 
-I’m interested in creating responsive websites,
-I’m currently working,
+
+I’m interested in creating responsive websites.
+i do things for web.
+captivating UIs, Interactive and responsive websites. 
 How to reach me israelsandra2000@gmail.com
 
 <!---
