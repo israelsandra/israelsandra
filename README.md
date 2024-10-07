@@ -1,6 +1,4 @@
-
-I’m interested in creating responsive websites.
-i do things for web.
+i build things for web.
 captivating UIs, Interactive and responsive websites. 
 How to reach me israelsandra2000@gmail.com
 
